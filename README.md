@@ -39,7 +39,7 @@ For more information, please consult our [ICCV 2021 Paper](https://openaccess.th
 
 ### Evaluation
 
-Evaluate results of detection/segmentation models (json file):
+Evaluate results of detection/segmentation models (json file). Both ground-truth and result (json files) need to follow MS-COCO format.
 > python evaluation.py
 
 ### Data Augmentation
