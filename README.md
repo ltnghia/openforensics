@@ -23,7 +23,7 @@ For more information, please consult our [ICCV 2021 Paper](https://openaccess.th
 <!--- [Extended Version](https://arxiv.org/abs/2107.14480) -->
 
 - Dataset: [OpenForensics-V.1.0.0](https://zenodo.org/record/5528418)
-- Baseline Models: [Google Drive](https://sites.google.com/view/ltnghia/research/openforensics) (Coming soon)
+- Baseline Models: [Google Drive](https://drive.google.com/drive/folders/1RjHbark1MKihDtAN3HJovzBCi5PGPW6E?usp=sharing)
 
 ## Install
 
